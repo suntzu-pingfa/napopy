@@ -14,6 +14,7 @@ android.api = 34
 android.minapi = 24
 android.ndk = 25b
 android.archs = arm64-v8a
+android.release_artifact = apk
 p4a.branch = master
 
 [buildozer]
